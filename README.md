@@ -31,3 +31,18 @@ jupyter notebook
 ```
 
 ---
+
+
+
+## Microgrid Structure
+
+| Parameter          | Value       |
+|--------------------|-------------|
+| Flexible Load      | ~1644 kW    |
+| EV Demand          | 50 kW       |
+| PV Supply          | ~2227 kWh   |
+| Battery Discharge  | 0 kW        |
+| Battery Charge     | ~533 kW     |
+| Battery SoC        | ~506 kWh    |
+| Grid Import        | 0 kW        |
+| Curtailed PV       | ~533 kWh    |
